@@ -5,4 +5,14 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Heber Fuentes </h1>
 <h3 align="center">Ingeniero en Sistema e Informatica | Analista de Calidad QA</h3>
 
+<h1>Experiencia Laboral! 😎</h1>
+
+- 🏫: Jira.
+- 🔭: Metodologia Scrum y Agil.
+- 🌱: Pruebas de Rendimiento. 🧠💻🤖
+- 🤔: Pruebas de Microservicios 😅
+- 💬: Pruebas de Estres 📊📈🤖🧠
+- 😄: Automatizacion de Pruebas
+- ⚡Pianista ⚽🎾🎹
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
